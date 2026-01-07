@@ -17,4 +17,4 @@ The documents conclude that Cooledtured is well-positioned as a digitally native
 
 3. Riding Cultural Waves: The strategy should be to find a cultural wave and ride it, offering timed collections and tracking upcoming trends, as entertainment remains a reliable escape in hard times (the "lipstick effect").
 
-4. Learn from Failure: I advise against making the "critical error" of assuming pandemic-era demand will last, citing the failures of companies like Peloton and Funko due to a lack of foresight and poor adaptation.
+4. Learn from Failure: I advise against making the "critical error" of assuming pandemic-era demand will last. We can see these through failures of companies like Peloton and Funko due to a lack of foresight and poor adaptation.
