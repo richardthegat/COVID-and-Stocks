@@ -4,9 +4,9 @@ The files compare different business models and provide concrete recommendations
 
 The analysis is split into two main parts, both using data on stock returns and revenue from pre-, during, and post-COVID periods to pull insights.
 
-Pop Culture from companies: 	Netflix, Funko, Kartoon Studios, Sony (Crunchyroll), Disney, GameStop, Hasbro, Warner Bros.	Digital-first (Netflix) and Distributor (Funko) models were more resilient and showed better revenue growth than Producers (Kartoon Studios) during the crisis.
+The first takes a look at Pop Culture companies like Netflix, Funko, Kartoon Studios, Sony (Crunchyroll), Disney, GameStop, Hasbro, Warner Bros.	Here, we see that digital-first (Netflix) and Distributor (Funko) models were more resilient and showed better revenue growth than Producers (Kartoon Studios) during the crisis.
 
-Lifestyle Companies like Nike, Lululemon, Peloton, Sprouts Farmers Market, Home Depot, Starbucks are ompanies that were able to adapt (e.g., strong drive-thru, home fitness, DIY) and so thrived. Companies that failed to plan ahead (e.g., Peloton, Funko) saw a post-lockdown decline.
+Part two looks at Lifestyle Companies like Nike, Lululemon, Peloton, Sprouts Farmers Market, Home Depot, Starbucks. This showed an overwhelming trend, illustrating that lifestyle companies were ones that were able to adapt (e.g., strong drive-thru, home fitness, DIY) and so thrived. Companies that failed to plan ahead (e.g., Peloton, Funko) saw a post-lockdown decline.
 
 
 The documents conclude that Cooledtured is well-positioned as a digitally native, distributor/lifestyle company, but must focus on these areas:
